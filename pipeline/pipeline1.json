@@ -41,13 +41,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "inputCSV",
+						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "outTable",
+						"referenceName": "AzureSqlTable1",
 						"type": "DatasetReference"
 					}
 				]
